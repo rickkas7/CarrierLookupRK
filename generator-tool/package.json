@@ -1,0 +1,17 @@
+{
+    "name": "generator-tool",
+    "version": "0.0.1",
+    "description": "Tool to convert mccmnc.json to a compact binary representation for Particle firmware",
+    "private": true,
+    "scripts": {
+        "start": "node app.js"
+    },
+    "author": "rickkas7@github.com",
+    "contributors": [],
+    "license": "Apache Version 2.0",
+    "dependencies": {
+    },
+    "engines": {
+        "node": ">=4.3.2"
+    }
+}
